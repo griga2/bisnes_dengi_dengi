@@ -13,12 +13,13 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "aFile": "04 Продажи и маркетинг/Таблица медиаплан.md",
+                "bFile": "04 Продажи и маркетинг/Таблица медиаплан.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "Diff: Таблица медиаплан"
             }
           }
         ]
@@ -140,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline"
             }
           },
           {
@@ -178,14 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd3c386b1bd29e44",
+  "active": "59c3e094bc9195a9",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Untitled 2.canvas",
     "Untitled 1.canvas",
+    "04 Продажи и маркетинг/Таблица медиаплан.md",
+    "04 Продажи и маркетинг/Таблица Медиаплан.md",
+    "Untitled.canvas",
+    "04 Продажи и маркетинг/Целевая Аудитория.md",
+    "04 Продажи и маркетинг/План маркетинга.md",
+    "Untitled 2.canvas",
     "04 Продажи и маркетинг/Медиапланы/Август.md",
     "2025-08-08.md",
-    "Untitled.canvas",
     "03 Информация по продукции/Описания технологий/Витраж тифани.md",
     "01 Стратегическая инофрмация/Бизнес план.md"
   ]
