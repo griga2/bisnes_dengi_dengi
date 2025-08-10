@@ -1,96 +1,44 @@
 {
   "main": {
-    "id": "c7b71dfefea6d720",
+    "id": "0871a14fe651cbd6",
     "type": "split",
     "children": [
       {
-        "id": "a4df658ea4a15038",
+        "id": "890a4106389ee9b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d224b856aa50ffce",
+            "id": "59c3e094bc9195a9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "09 Файлы/Pasted image 20250804105836.png"
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250804105836"
-            }
-          },
-          {
-            "id": "a1a189efd6e36ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Стратегическая инофрмация/Бизнес план.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бизнес план"
-            }
-          },
-          {
-            "id": "4d5eeaa23172db53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Стратегическая инофрмация/Информация про бренд и идею.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Информация про бренд и идею"
-            }
-          },
-          {
-            "id": "060d6571a9a7fae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Информация по продукции/Описания технологий/Витраж тифани.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Витраж тифани"
-            }
-          },
-          {
-            "id": "5cdafcd16b372ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Стратегическая инофрмация/Информация про бренд и идею.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Информация про бренд и идею"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a365436938ff8cca",
+    "id": "0af61d8bf84fba53",
     "type": "split",
     "children": [
       {
-        "id": "5406b82d2edce4a3",
+        "id": "0256773b40f64be8",
         "type": "tabs",
         "children": [
           {
-            "id": "f1dbfd23eb5b2bc3",
+            "id": "3b29e138104f6c09",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -103,12 +51,12 @@
             }
           },
           {
-            "id": "8fa7d5bff763a4f6",
+            "id": "82a2283c35657ec9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Средние",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,17 +64,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
-            "id": "1282bccd7d860ab7",
+            "id": "617a549411b25ece",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -136,19 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "1a138ae2f65ecc80",
+    "id": "f142b0c6ca7e0050",
     "type": "split",
     "children": [
       {
-        "id": "326de3b7232aa964",
+        "id": "53f61720472d393f",
         "type": "tabs",
         "children": [
           {
-            "id": "1062feefb69255f6",
+            "id": "f291b01dc5a1f0ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,53 +107,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Backlinks for Untitled 2"
             }
           },
           {
-            "id": "eb3c4b850618776d",
+            "id": "60caf79785fc8d7a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Outgoing links from Untitled 2"
             }
           },
           {
-            "id": "cb6d5216a90d0399",
+            "id": "1af440b1f1ed08c9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
-            "id": "228b6e4fe33f0685",
+            "id": "56bdfd7311a26767",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Outline of Untitled 2"
             }
           },
           {
-            "id": "831fe9cbcdf94c4b",
+            "id": "cd3c386b1bd29e44",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -232,52 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "060d6571a9a7fae7",
+  "active": "59c3e094bc9195a9",
   "lastOpenFiles": [
-    "09 Файлы/Крепление витража в окно.jpg",
-    "03 Информация по продукции/Описания технологий/Витраж тифани.md",
-    "03 Информация по продукции/Ассортиментная матрица.md",
-    "02 Аналитика рынка/Структура воронки продаж.md",
-    "01 Стратегическая инофрмация/Юридическая информация.md",
-    "01 Стратегическая инофрмация/Бизнес план.md",
-    "01 Стратегическая инофрмация/План работы.md",
-    "04 Продажи и маркетинг/Наметки на Медиаплан.md",
-    "04 Продажи и маркетинг/Целевая Аудитория.md",
-    "09 Файлы/Стол Слэб и шишки.jpg",
-    "04 Продажи и маркетинг/План маркетинга.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "04 Продажи и маркетинг/Медиапланы/Август.md",
-    "04 Продажи и маркетинг/Таблица Медиаплан.md",
-    "05 Финансы/Расчёт финансовой модели.md",
-    "05 Финансы/План продаж.md",
-    "04 Продажи и маркетинг/Медиапланы",
-    "03 Информация по продукции/Закупки/Стекло.md",
-    "03 Информация по продукции/Закупки",
-    "02 Аналитика рынка/Заметки про игроков из других ниш.md",
-    "01 Стратегическая инофрмация/УТП.md",
-    "04 Продажи и маркетинг/Сценарии к видео писька.md",
-    "09 Файлы/Ловец света тайга ночь.jpg",
-    "05 Финансы/Оборудование начальное.md",
-    "05 Финансы/Начальный материалы.md",
-    "03 Информация по продукции/Карточки товаров/005.1 Ловец Света Малина.md",
-    "03 Информация по продукции/Карточки товаров/004 Стол из слебов.md",
-    "03 Информация по продукции/Карточки товаров/005 Ловец Света Тайга.md",
-    "03 Информация по продукции/Карточки товаров/001 Брелок Цветы.md",
-    "03 Информация по продукции/Карточки товаров/002 Подсвеник.md",
-    "03 Информация по продукции/Карточки товаров/003 Панель А5.md",
-    "09 Файлы/Подставка малина.jpg",
-    "09 Файлы/Крючок Губки.jpg",
-    "09 Файлы/Брелок цветы.jpg",
-    "09 Файлы/Ловец Света Тайга туман.jpg",
-    "09 Файлы/Ловец света лист.png",
-    "09 Файлы/ловец света малиновый шептун.png",
-    "03 Информация по продукции/Описания технологий",
-    "09 Файлы",
-    "Pasted image 20250804105853.png",
-    "04 Продажи и маркетинг/Идеи колобораций/Без названия",
-    "04 Продажи и маркетинг/Идеи колобораций",
-    "06 Персональные заказы",
-    "03 Информация по продукции/Карточки товаров",
-    "02 Аналитика рынка/Тренды",
-    "03 Информация по продукции"
+    "2025-08-08.md",
+    "Untitled.canvas",
+    "03 Информация по продукции/Описания технологий/Витраж тифани.md",
+    "01 Стратегическая инофрмация/Бизнес план.md"
   ]
 }
