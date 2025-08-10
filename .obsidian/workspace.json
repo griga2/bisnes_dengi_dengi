@@ -11,17 +11,14 @@
             "id": "59c3e094bc9195a9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 2"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -97,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks"
             }
           },
           {
@@ -116,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 2"
+              "title": "Outgoing links"
             }
           },
           {
@@ -145,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline"
             }
           },
           {
