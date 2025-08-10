@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "890a4106389ee9b8",
+        "id": "7c2ef61d0404abb4",
         "type": "tabs",
         "children": [
           {
-            "id": "59c3e094bc9195a9",
+            "id": "9b538a115e9df996",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -178,12 +174,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd3c386b1bd29e44",
+  "active": "9b538a115e9df996",
   "lastOpenFiles": [
+    "04 Продажи и маркетинг/Таблица медиаплан.md",
+    "04 Продажи и маркетинг/МедиаПлань.md",
+    "04 Продажи и маркетинг/Наметки на Медиаплан.md",
+    "04 Продажи и маркетинг/Целевая Аудитория.md",
+    "04 Продажи и маркетинг/Таблица Медиаплан.md",
+    "04 Продажи и маркетинг/План маркетинга.md",
+    "04 Продажи и маркетинг/Медиапланы/Август.md",
     "conflict-files-obsidian-git.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "04 Продажи и маркетинг/Медиапланы/Август.md",
     "2025-08-08.md",
     "Untitled.canvas",
     "03 Информация по продукции/Описания технологий/Витраж тифани.md",
