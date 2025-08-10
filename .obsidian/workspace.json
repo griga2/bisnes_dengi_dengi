@@ -11,15 +11,12 @@
             "id": "59c3e094bc9195a9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excel-view",
               "state": {
-                "aFile": "04 Продажи и маркетинг/Таблица медиаплан.md",
-                "bFile": "04 Продажи и маркетинг/Таблица медиаплан.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Excel 2025-08-10 23.47.13.sheet.md"
               },
-              "icon": "diff",
-              "title": "Diff: Таблица медиаплан"
+              "icon": "lucide-file",
+              "title": "Excel 2025-08-10 23.47.13.sheet"
             }
           }
         ]
@@ -95,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excel 2025-08-10 23.47.13.sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Excel 2025-08-10 23.47.13.sheet"
             }
           },
           {
@@ -113,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excel 2025-08-10 23.47.13.sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Excel 2025-08-10 23.47.13.sheet"
             }
           },
           {
@@ -141,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excel 2025-08-10 23.47.13.sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Excel 2025-08-10 23.47.13.sheet"
             }
           },
           {
@@ -180,12 +180,13 @@
   },
   "active": "59c3e094bc9195a9",
   "lastOpenFiles": [
+    "04 Продажи и маркетинг/Таблица медиаплан.md",
+    "Excel 2025-08-10 23.47.13.sheet.md",
+    "04 Продажи и маркетинг/Целевая Аудитория.md",
     "conflict-files-obsidian-git.md",
     "Untitled 1.canvas",
-    "04 Продажи и маркетинг/Таблица медиаплан.md",
     "04 Продажи и маркетинг/Таблица Медиаплан.md",
     "Untitled.canvas",
-    "04 Продажи и маркетинг/Целевая Аудитория.md",
     "04 Продажи и маркетинг/План маркетинга.md",
     "Untitled 2.canvas",
     "04 Продажи и маркетинг/Медиапланы/Август.md",
