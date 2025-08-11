@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb0366bc0df00bd5",
+        "id": "6a4b53f80e3513e4",
         "type": "tabs",
         "children": [
           {
-            "id": "8aeede2fd10ca665",
+            "id": "e294e21dc0a6da84",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excel 2025-08-10 23.47.13.sheet.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Excel 2025-08-10 23.47.13.sheet"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -176,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8aeede2fd10ca665",
+  "active": "e294e21dc0a6da84",
   "lastOpenFiles": [
+    "Excel 2025-08-10 23.53.33.sheet.md",
     "Excel 2025-08-10 23.47.13.sheet.md",
     "2025-08-08.md",
     "Untitled.canvas",
