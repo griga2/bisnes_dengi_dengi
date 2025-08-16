@@ -1,5 +1,3 @@
-.obsidian
-/.obsidian
-.workspace.json
-workspace.json
-obsidian
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
